@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block title %}Projects{% endblock %}
+
+{% block content %}
+<h1 class="text-center">My Projects</h1>
+<div class="row">
+    {% for project in projects %}
+    <div class="col-md-6 col-lg-4 mb-4">
+        <div class="card h-100">
+            <img src="{{ project.image }}" class="card-img-top" alt="{{ project.name }}">
+            <div class="card-body">
+                <h5 class="card-title">{{ project.name }}</h5>
+                <p class="card-text">{{ project.desc }}</p>
+                <p class="badge bg-primary">{{ project.category }}</p>
+            </div>
+            <div class="card-footer">
+                {% if project.links.view %}
+                <a href="{{ project.links.view }}" class="btn btn-success btn-sm" target="_blank">View</a>
+                {% endif %}
+                <a href="{{ project.links.code }}" class="btn btn-primary btn-sm" target="_blank">Code</a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

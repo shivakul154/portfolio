@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Image Classification",
+        "desc": "Built a deep learning model using TensorFlow to classify images into various categories. Trained on CIFAR-10 dataset.",
+        "image": "static/images/image-classification.png",
+        "category": "Machine Learning",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Spam Detection",
+        "desc": "Developed a machine learning model using Naive Bayes to detect spam emails. Deployed using Flask.",
+        "image": "static/images/spam-classifier.png",
+        "category": "Machine Learning",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Stock Price Prediction",
+        "desc": "Implemented an LSTM-based RNN to predict stock prices using historical data. Visualized trends with Matplotlib.",
+        "image": "static/images/stock-price.jpg",
+        "category": "Machine Learning",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Handwriting Recognition",
+        "desc": "Trained a convolutional neural network (CNN) to recognize handwritten digits using the MNIST dataset.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png",
+        "category": "Machine Learning",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    },
+    {
+        "name": "Sentiment Analysis",
+        "desc": "Built a Natural Language Processing (NLP) pipeline to analyze the sentiment of customer reviews on a product.",
+        "image": "static/images/sentiment-analysis.png",
+        "category": "Machine Learning",
+        "links": {
+            "view": "#",
+            "code": "#"
+        }
+    }
+]

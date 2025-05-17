@@ -1,0 +1,38 @@
+{
+    "name": "Shivans Kulshrestha",
+    "profession": "Software Developer and Cyber Analysts",
+    "description": "I am a software developer passionate about creating impactful solutions.",
+    "skills": [
+        {"name": "Python", "icon": "https://img.icons8.com/color/48/000000/python.png"},
+        {"name": "Numpy", "icon": "https://img.icons8.com/color/48/000000/numpy.png"},
+        {"name": "Pandas", "icon": "https://img.icons8.com/color/48/000000/pandas.png"},
+        {"name": "Flask", "icon": "https://img.icons8.com/48/DE0505/flask.png"},
+        {"name": "ReactJS", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"},
+        {"name": "MySQL", "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"},
+        {"name": "Docker", "icon": "https://img.icons8.com/color/48/000000/docker.png"},
+        {"name": "HTML5", "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"},
+        {"name": "CSS3", "icon": "https://img.icons8.com/color/48/000000/css3.png"},
+        {"name": "JavaScript", "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"}
+    ],
+    "skills": [
+        {"name": "Python", "icon": "https://img.icons8.com/color/48/000000/python.png"},
+        {"name": "Numpy", "icon": "https://img.icons8.com/color/48/000000/numpy.png"},
+        {"name": "Pandas", "icon": "https://img.icons8.com/color/48/000000/pandas.png"},
+        {"name": "Flask", "icon": "https://img.icons8.com/48/DE0505/flask.png"},
+        {"name": "ReactJS", "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"},
+        {"name": "MySQL", "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"},
+        {"name": "Docker", "icon": "https://img.icons8.com/color/48/000000/docker.png"},
+        {"name": "HTML5", "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"},
+        {"name": "CSS3", "icon": "https://img.icons8.com/color/48/000000/css3.png"},
+        {"name": "JavaScript", "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"}],
+  
+    "education": [
+        {"year": "2010 - 2013", "title": "High School Degree", "desc": "Studied foundational sciences, mathematics, and computer basics."},
+        {"year": "2013 - 2017", "title": "Bachelor's Degree in Computer Science", "desc": "Gained in-depth knowledge of programming, algorithms, and software engineering."},
+        {"year": "2018 - 2020", "title": "Master's Degree in Data Science", "desc": "Specialized in machine learning, AI, and big data analysis."}
+    ],
+    "experience": [
+        {"year": "2020 - 2022", "title": "Frontend Developer", "desc": "Developed user-friendly web applications using React and Angular."},
+        {"year": "2022 - Present", "title": "Data Scientist", "desc": "Built and deployed machine learning models to solve real-world business problems."}
+    ]
+}
